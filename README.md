@@ -2,7 +2,7 @@
 
 This repository contains scripts for extracting linguistic features from Filipino texts. The scripts were created for Joseph's MSCS thesis in readability assessment of children's books. The complete list of linguistic features including the formulas and descriptions are uploaded with this repo. I advise you to check the document first before running the codes.
 
-For `TRAD`, `SYLL`, and `LM`, I'm fairly certain you are not going to encounter any dependency issues as most scripts just rely on string manipulation.  However, I you want to use `LEX` and `MORPH`, you need to setup the the following:
+The scripts only contain functions for extracting a specific feature. So, you only need to create a `main.py` file and `import` the necessary script you need and call the functions. For `TRAD`, `SYLL`, and `LM`, I'm fairly certain you are not going to encounter any dependency issues as most scripts just rely on string manipulation.  However, I you want to use `LEX` and `MORPH`, you need to setup the the following:
 
  - JDK8 or any latest-ish version of JDK should work.
  - Lastest version of [Stanford POS Tagger](https://nlp.stanford.edu/software/tagger.shtml) from the CoreNLP suite. Make sure to read how to set this up on your device.
