@@ -1,4 +1,4 @@
-## Filipino Linguistic Extractors for Text
+## Filipino Text Linguistic Feature Extractors
 
 This repository contains scripts for extracting linguistic features from Filipino texts. The scripts were created for Joseph's MSCS thesis in readability assessment of children's books. The complete list of linguistic features including the formulas and descriptions are uploaded with this repo. I advise you to check the document first before running the codes.
 
