@@ -30,10 +30,8 @@ If you find this repository useful, please cite the following papers:
 ## Contact
 If there is something you want to tell me about, you may contact me using the following information:
 
-**Joseph Marvin Imperial**
-
-jrimperial@national-u.edu.ph
-
+**Joseph Marvin Imperial**<br/>
+jrimperial@national-u.edu.ph<br/>
 www.josephimperial.com
 
 
