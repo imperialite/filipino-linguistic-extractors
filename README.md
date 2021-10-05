@@ -31,7 +31,9 @@ If you find this repository useful, please cite the following papers:
 If there is something you want to tell me about, you may contact me using the following information:
 
 **Joseph Marvin Imperial**
+
 jrimperial@national-u.edu.ph
+
 www.josephimperial.com
 
 
