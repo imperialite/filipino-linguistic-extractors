@@ -6,7 +6,7 @@ For `TRAD`, `SYLL`, and `LM`, I'm fairly certain you are not going to encounter 
 
  - JDK8 or any latest-ish version of JDK should work.
  - Lastest version of [Stanford POS Tagger](https://nlp.stanford.edu/software/tagger.shtml) from the CoreNLP suite. Make sure to read how to set this up on your device.
- - Download the two Filipino models for the POS Tagger [here](https://github.com/matthewgo/FilipinoStanfordPOSTagger) and load them by reading the instruction at Stanford's [FAQ website](https://nlp.stanford.edu/software/pos-tagger-faq.html).
+ - Download the two Filipino models for the POS Tagger from Go and Nocon (2017)'s paper [here](https://github.com/matthewgo/FilipinoStanfordPOSTagger) and load them by reading the instruction at Stanford's [FAQ website](https://nlp.stanford.edu/software/pos-tagger-faq.html).
 
 
 ## Disclaimer
